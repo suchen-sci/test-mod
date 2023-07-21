@@ -1,0 +1,4 @@
+package testmod
+
+func A() {
+}
