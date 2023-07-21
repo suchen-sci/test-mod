@@ -1,4 +1,5 @@
 package testmod
 
-func A() {
+func A() string {
+	return "A"
 }
